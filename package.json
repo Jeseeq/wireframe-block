@@ -1,0 +1,12 @@
+{
+  "name": "wireframe-block",
+  "version": "5.0.0",
+  "description": "",
+  "main": "index.js",
+  "style": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
